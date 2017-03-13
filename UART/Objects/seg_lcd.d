@@ -1,0 +1,9 @@
+.\objects\seg_lcd.o: Seg_LCD.c
+.\objects\seg_lcd.o: E:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.11.0\Device\Include\MKL46Z4.h
+.\objects\seg_lcd.o: E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cm0plus.h
+.\objects\seg_lcd.o: E:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\seg_lcd.o: E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cminstr.h
+.\objects\seg_lcd.o: E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\cmsis_armcc.h
+.\objects\seg_lcd.o: E:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta4\CMSIS\Include\core_cmfunc.h
+.\objects\seg_lcd.o: E:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.11.0\Device\Include\system_MKL46Z4.h
+.\objects\seg_lcd.o: Seg_LCD.h
